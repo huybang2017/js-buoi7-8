@@ -1,0 +1,121 @@
+/* tính tổng */
+#btn__sum {
+  width: 100%;
+  position: relative;
+  margin-bottom: 2px;
+}
+#btn__sum i {
+  position: absolute;
+  right: 3px;
+  top: 30%;
+}
+/* đếm số dương */
+#btn__count {
+  width: 100%;
+  position: relative;
+  margin-bottom: 2px;
+}
+#btn__count i {
+  position: absolute;
+  right: 3px;
+  top: 30%;
+}
+/* tìm số nhỏ nhất */
+#btn__findMin {
+  width: 100%;
+  position: relative;
+  margin-bottom: 2px;
+}
+#btn__findMin i {
+  position: absolute;
+  right: 3px;
+  top: 30%;
+}
+/* tìm số dương nhỏ nhất */
+#btn__findMin {
+  width: 100%;
+  position: relative;
+  margin-bottom: 2px;
+}
+#btn__findMin i {
+  position: absolute;
+  right: 3px;
+  top: 30%;
+}
+/* tìm số dương nhỏ nhất */
+#btn__findMinPositive {
+  width: 100%;
+  position: relative;
+  margin-bottom: 2px;
+}
+#btn__findMinPositive i {
+  position: absolute;
+  right: 3px;
+  top: 30%;
+}
+/* tìm số chẵn cuối cùng */
+#btn__numEven {
+  width: 100%;
+  position: relative;
+  margin-bottom: 2px;
+}
+#btn__numEven i {
+  position: absolute;
+  right: 3px;
+  top: 30%;
+}
+/* đổi chỗ */
+#btn__translocate {
+  width: 100%;
+  position: relative;
+  margin-bottom: 2px;
+}
+#btn__translocate i {
+  position: absolute;
+  right: 3px;
+  top: 30%;
+}
+/* sắp xếp */
+#btn__arrange {
+  width: 100%;
+  position: relative;
+  margin-bottom: 2px;
+}
+#btn__arrange i {
+  position: absolute;
+  right: 3px;
+  top: 30%;
+}
+/* tìm số nguyên tố đầu tiên */
+#btn__Prime {
+  width: 100%;
+  position: relative;
+  margin-bottom: 2px;
+}
+#btn__Prime i {
+  position: absolute;
+  right: 3px;
+  top: 30%;
+}
+/* đếm số nguyên */
+#btn__countIntegers {
+  width: 100%;
+  position: relative;
+  margin-bottom: 2px;
+}
+#btn__countIntegers i {
+  position: absolute;
+  right: 3px;
+  top: 30%;
+}
+/* so sánh số âm và số dương */
+#btn__compare {
+    width: 100%;
+    position: relative;
+    margin-bottom: 2px;
+  }
+  #btn__compare i {
+    position: absolute;
+    right: 3px;
+    top: 30%;
+  }
